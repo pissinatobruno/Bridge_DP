@@ -1,0 +1,6 @@
+C:\Users\pissi\source\repos\BridgeEx\BridgeEx\bin\Debug\BridgeEx.exe.config
+C:\Users\pissi\source\repos\BridgeEx\BridgeEx\bin\Debug\BridgeEx.exe
+C:\Users\pissi\source\repos\BridgeEx\BridgeEx\bin\Debug\BridgeEx.pdb
+C:\Users\pissi\source\repos\BridgeEx\BridgeEx\obj\Debug\BridgeEx.csprojAssemblyReference.cache
+C:\Users\pissi\source\repos\BridgeEx\BridgeEx\obj\Debug\BridgeEx.exe
+C:\Users\pissi\source\repos\BridgeEx\BridgeEx\obj\Debug\BridgeEx.pdb
